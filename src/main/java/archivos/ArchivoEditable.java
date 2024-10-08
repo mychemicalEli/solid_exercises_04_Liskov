@@ -9,4 +9,5 @@ class ArchivoEditable extends Archivo {
     public void editar(String nuevoContenido) {
         this.contenido = nuevoContenido;
     }
+
 }
