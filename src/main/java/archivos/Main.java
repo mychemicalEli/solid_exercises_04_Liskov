@@ -8,7 +8,7 @@ public class Main {
     }
 
     private static Archivo obtenerArchivoDelUsuario() {
-        return new ArchivoSoloLectura("Contenido del archivo de solo lectura.");
+        return new ArchivoSoloLectura("Contenido del archivo de solo lectura. ");
     }
 
 }
